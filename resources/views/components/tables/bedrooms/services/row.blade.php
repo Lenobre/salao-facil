@@ -7,7 +7,7 @@
     <td class="text-black">Serivço 1</td>
     <td class="text-black">R$ 15,00</td>
     <td>
-        <button class="text-indigo-500 underline">Editar</button>
+        <button class="text-rose-500 underline">Editar</button>
         <button class="ml-2 text-red-500 underline">Excluir</button>
     </td>
 </tr>

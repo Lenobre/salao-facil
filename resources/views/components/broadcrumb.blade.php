@@ -1,6 +1,6 @@
 <div class="text-sm">
     <?php
-        $segments = request()->segments();
+    $segments = request()->segments();
     ?>
 
     <ul class="flex">
@@ -12,7 +12,7 @@
             </li>
 
             @if ($index < count($segments) - 1)
-                <span class="mx-1 text-indigo-500">></span>
+                <span class="mx-1 text-rose-500">></span>
             @endif
         @endforeach
     </ul>
